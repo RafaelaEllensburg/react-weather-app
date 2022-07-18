@@ -52,3 +52,11 @@
   line-height: 1;
   top: -34px;
 }
+
+.Weather a {
+  text-decoration: none;
+}
+
+.Weather a:hover {
+  text-decoration: underline;
+}
